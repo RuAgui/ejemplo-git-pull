@@ -1,2 +1,2 @@
-# ejemplo-git-pull
+# repositorio para modificar ejemplo-git-pull
 para probar comando pull
